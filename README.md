@@ -1,4 +1,4 @@
-**yahtoiba/yahtoiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Uwuu** is a ✨ _special_ ✨ i cute `Uwuu` mwehhe.
 
 Here are some ideas to get you started:
 
