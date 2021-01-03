@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ## Spotify Playing
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=falla_vall&redirect=true" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=falla_vall&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a><br>
