@@ -1,4 +1,4 @@
-**Hmm** is a ✨ _hmm_ ✨ hmm `Hmm` hmmm.
+**Hmm** is a 🚀 _hmm_ 🚀 hmm `Hmm` hmmm.
 
 Here are some ideas to get you started:
 
