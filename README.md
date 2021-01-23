@@ -1,15 +1,23 @@
-**Hmm** is a 🚀 _hmm_ 🚀 hmm `Hmm` hmmm.
+<p align="center"> 
+  Waiting...<br>
+  <img src="https://profile-counter.glitch.me/H-I-K-S-termux-weabot/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/H-I-K-S/termux-weabot"><img title="Stars" src="https://img.shields.io/github/stars/H-I-K-S/termux-weabot?color=red&style=flat-square" /></a>
+  <a href="https://github.com/H-I-K-S/termux-weabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/H-I-K-S/termux-weabot?color=red&style=flat-square" /></a>
+  <a href="https://github.com/H-I-K-S/termux-weabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/H-I-K-S/termux-weabot?label=watchers&color=blue&style=flat-square" /></a> <br>
+  <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" /></a>
+  <img src="https://img.shields.io/node/v/@open-wa/wa-automate" />
+  <img src="https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat" />
+  <img src="https://img.shields.io/github/repo-size/H-I-K-S/termux-weabot" /> <br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+<a href="https://github.com/DEV-HIKS"><img title="DEV-HIKS" src="https://img.shields.io/badge/DEV-HIKS-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+
+---------
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
